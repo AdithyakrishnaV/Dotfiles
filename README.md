@@ -14,6 +14,11 @@
 # Browser start page
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/84318379/193805535-966f738d-8cc5-4c88-8b7e-99a01de1f8bf.png">
 
+# Vedio
+
+<a href="https://youtu.be/Of10TKsEgKA"><img width="957" alt="1" src="https://user-images.githubusercontent.com/84318379/193847766-16659854-caf7-4f44-9a83-29b46681909b.png">
+</a>
+
 # Rice
 
 <b>OS</b>: <a href="https://ubuntu.com/">ubuntu</a>
@@ -34,9 +39,7 @@
 
 <b>Browser</b> : <a href="https://www.mozilla.org/en-US/firefox/new/">firefox</a> ,  <a href="https://www.geeksforgeeks.org/how-to-browse-from-the-linux-terminal-using-w3m/">w3m(terminal-based)</a>
 
-#vedio
 
-<a href="https://youtu.be/Of10TKsEgKA"></a>
 # Applications
 
 <b>vim</b>
