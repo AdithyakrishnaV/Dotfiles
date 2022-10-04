@@ -4,14 +4,15 @@
 
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/84318379/193749313-4acafcf2-802f-4736-bc8c-51116a7bdb5d.png">
 
-browser start page
-<img width="878" alt="image" src="https://user-images.githubusercontent.com/84318379/193751151-4400136d-d79b-4016-a0ae-94aa95694939.png">
-
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/84318379/193754952-87e9d1f0-9075-4ff3-b24b-e99313ea95da.png"> <img width="462" alt="image" src="https://user-images.githubusercontent.com/84318379/193755589-0156f5e6-f2a2-4dbd-b392-93f3db18965a.png">
 
 <img width="851" alt="image" src="https://user-images.githubusercontent.com/84318379/193757648-2af5b878-cd51-4435-961f-e09e9f3ff949.png">
 
 <img width="810" alt="image" src="https://user-images.githubusercontent.com/84318379/193771223-a91c14ec-87af-4719-956f-8a0bf745aef6.png">
+
+
+# Browser start page
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/84318379/193805535-966f738d-8cc5-4c88-8b7e-99a01de1f8bf.png">
 
 # Rice
 
