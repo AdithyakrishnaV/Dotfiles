@@ -1,0 +1,32 @@
+#REQUIREMENT --> 
+~NEED A SPOTIFY PREMIEM ACCOUNT
+~This app uses the Web API from Spotify, which doesn't handle streaming itself.
+ So you'll need either an official Spotify client
+ open or a lighter weight alternative such as spotifyd.
+
+---------------------------------------------------------------------------------------------------
+#install using snap --> snap install spt
+
+#spotify-tui needs to connect to Spotify’s API in order to find music by name, play tracks etc.
+
+Instructions on how to set this up will be shown when you first run the app.
+
+But here they are again:
+
+Go to the Spotify dashboard :https://developer.spotify.com/dashboard/
+Click Create an app
+You now can see your Client ID and Client Secret
+Now click Edit Settings
+Add http://localhost:8888/callback to the Redirect URIs
+Scroll down and click Save
+You are now ready to authenticate with Spotify!
+Go back to the terminal
+Run spt
+Enter your Client ID
+Enter your Client Secret
+Press enter to confirm the default port (8888) or enter a custom port
+You will be redirected to an official Spotify webpage to ask you for permissions.
+After accepting the permissions, you'll be redirected to localhost. If all goes well,
+the redirect URL will be parsed automatically and now you're done. If the local webserver 
+fails for some reason you'll be redirected to a blank webpage that might say something like 
+"Connection Refused" since no server is running. Regardless, copy the URL and paste into the prompt in the terminal

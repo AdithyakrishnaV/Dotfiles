@@ -1,0 +1,16 @@
+#Extracting the Candy icon theme
+
+tar xvf ~/Downloads/candy-icons.tar.xz
+
+#When the extraction process is complete, a folder with the name of “candy-icons” will appear
+
+#Install Candy icon theme
+
+cd ~/Downloads
+
+sudo -s
+
+mv candy-icons /usr/share/icons/
+
+# install Tweak Tool on Ubuntu 
+#change the icons to "candy-icon"
