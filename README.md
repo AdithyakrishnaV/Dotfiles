@@ -34,6 +34,9 @@
 
 <b>Browser</b> : <a href="https://www.mozilla.org/en-US/firefox/new/">firefox</a> ,  <a href="https://www.geeksforgeeks.org/how-to-browse-from-the-linux-terminal-using-w3m/">w3m(terminal-based)</a>
 
+#vedio
+
+<a href="https://youtu.be/Of10TKsEgKA"></a>
 # Applications
 
 <b>vim</b>
