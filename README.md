@@ -1,3 +1,18 @@
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/84318379/193748425-2d6263a4-3463-49f4-baae-8056aac2818e.png">
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/84318379/193748907-9f8dc1fb-4a0e-4c75-bdb3-344b7731e46e.png">
+
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/84318379/193749313-4acafcf2-802f-4736-bc8c-51116a7bdb5d.png">
+
+browser start page
+<img width="878" alt="image" src="https://user-images.githubusercontent.com/84318379/193751151-4400136d-d79b-4016-a0ae-94aa95694939.png">
+
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/84318379/193754952-87e9d1f0-9075-4ff3-b24b-e99313ea95da.png"> <img width="462" alt="image" src="https://user-images.githubusercontent.com/84318379/193755589-0156f5e6-f2a2-4dbd-b392-93f3db18965a.png">
+
+<img width="851" alt="image" src="https://user-images.githubusercontent.com/84318379/193757648-2af5b878-cd51-4435-961f-e09e9f3ff949.png">
+
+<img width="810" alt="image" src="https://user-images.githubusercontent.com/84318379/193771223-a91c14ec-87af-4719-956f-8a0bf745aef6.png">
+
 # Rice
 
 <b>OS</b>: <a href="https://ubuntu.com/">ubuntu</a>
@@ -17,4 +32,31 @@
 <b>Fetch</b> :<a href="https://github.com/dylanaraps/neofetch">neofetch</a> 
 
 <b>Browser</b> : <a href="https://www.mozilla.org/en-US/firefox/new/">firefox</a> ,  <a href="https://www.geeksforgeeks.org/how-to-browse-from-the-linux-terminal-using-w3m/">w3m(terminal-based)</a>
+
+# Applications
+
+<b>vim</b>
+
+<b>htop</b>
+
+<b>cpufetch</b>
+
+<b>cowsay</b>
+
+<b>Discord</b>
+
+<b>ranger</b>
+
+<b>cowsay</b>
+
+<b>lolcat</b>
+
+<b>sl</b>
+
+<b>hollywood</b>
+
+<b>spotify-tui</b>
+
+<b>neofetch with custom ascii</b>
+
 
