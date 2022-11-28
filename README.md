@@ -16,7 +16,7 @@
 
 # Vedio link
 
-<a href="https://youtu.be/Of10TKsEgKA">![1-overlay](https://user-images.githubusercontent.com/84318379/193850774-2462229e-dd91-44b8-b103-899188a31a8b.png)
+<a href="https://www.youtube.com/watch?v=BH6Nvwip2ZQ">![1-overlay](https://user-images.githubusercontent.com/84318379/193850774-2462229e-dd91-44b8-b103-899188a31a8b.png)
 </a>
 
 # Rice
