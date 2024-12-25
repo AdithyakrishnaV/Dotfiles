@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/adithyakrishna" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/84318379/193748425-2d6263a4-3463-49f4-baae-8056aac2818e.png">
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/84318379/193748907-9f8dc1fb-4a0e-4c75-bdb3-344b7731e46e.png">
